@@ -1,3 +1,49 @@
 body {
   font-family: helvetica;
+  text-align: center;
+}
+.header {
+  background-image: url(/Users/Tom/Documents/DEVPROJECTS/Broadway/Resources/the-flatiron-building.png);
+  background-repeat: round;
+  background-size: contain;
+  color: white;
+}
+.mainheader {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.btn-nav {
+  color: white;
+  font-size: 18px;
+  list-style: none;
+}
+li {
+  list-style: none;
+  text-align: center;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+}
+
+.divider {
+  color: white;
+  background-image: url(/Users/Tom/Documents/DEVPROJECTS/Broadway/Resources/the-flatiron-building.png);
+  font-weight: bold;
+  font-size:
+}
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  color: black;
+  font-size: 11px;
+  color: white;
+}
+.footer a{
+  font-size: 14px;
+  color: inherit;
 }
